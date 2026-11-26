@@ -1,6 +1,6 @@
 """Entry for make.fun: Your Human in One Word.
 
-One vivid word for the human in charge: a chaos goblin.
+One vivid, fitting word for the human in charge: a chaos goblin.
 """
 import os
 
